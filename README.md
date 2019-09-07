@@ -23,7 +23,7 @@ The IP address is 35.166.129.196. Port is 2200.
 ubuntu@35.166.129.196 -p 2200
 
 The complete URL is :
-http://35.166.129.196:5000/
+http://54.214.194.215.xip.io/
 
 Versioning
 Version 1.0
@@ -36,5 +36,8 @@ Suchita Kaundin
 
 Acknowledgments
 Udacity and all the mentors
+StackOverflow posts
+Blogs posts
+Tutorials
 
 
